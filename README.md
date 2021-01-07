@@ -1,5 +1,5 @@
 # Milestone-Project-4
-App that allows users to take photos of things that interest them, add captions to them, then shows those photos in a table view.
+100 Days of Swift (Milestone Project 4) App that allows users to take photos of things that interest them, add captions to them, then shows those photos in a table view.
 
 Challenge:
 Your challenge is to put two different projects into one: I’d like you to let users take photos of things that interest them, add captions to them, then show 
