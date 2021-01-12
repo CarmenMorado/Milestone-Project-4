@@ -15,3 +15,6 @@ Here are some hints in case you hit problems:
 -Use a UIAlertController to get the user’s caption for their image – a single text field is enough.
 -You’ll need to design your detail view controller using Interface Builder, then call instantiateViewController to load it when a table view row is tapped.
 
+![ezgif-3-bd89baf48758](https://user-images.githubusercontent.com/42749527/104375192-f721be00-54f0-11eb-927a-066d1c8205c8.gif)
+
+
