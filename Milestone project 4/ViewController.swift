@@ -45,7 +45,9 @@ class ViewController:  UITableViewController, UIImagePickerControllerDelegate, U
     @objc func addNewImage() {
         let picker = UIImagePickerController()
         picker.allowsEditing = true
-        picker.sourceType = .camera 
+        if UIImagePickerController.isSourceTypeAvailable(.camera) {
+            picker.sourceType = .camera
+        }
         picker.delegate = self
         present(picker, animated: true)
     }
